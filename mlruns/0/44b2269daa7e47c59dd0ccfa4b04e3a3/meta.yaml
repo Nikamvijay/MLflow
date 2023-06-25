@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenov/mlflow/mlruns/0/44b2269daa7e47c59dd0ccfa4b04e3a3/artifacts
+end_time: 1687376979041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44b2269daa7e47c59dd0ccfa4b04e3a3
+run_name: wistful-worm-817
+run_uuid: 44b2269daa7e47c59dd0ccfa4b04e3a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687376978946
+status: 4
+tags: []
+user_id: lenov
